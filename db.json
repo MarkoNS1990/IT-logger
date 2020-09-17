@@ -1,0 +1,48 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "changed hard drive",
+      "attention": false,
+      "date": "03-02-2020",
+      "tech": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "message": "changed harder drive",
+      "attention": true,
+      "date": "03-02-2021",
+      "tech": "Sam Smither"
+    },
+    {
+      "id": 3,
+      "message": "changed hardest drive",
+      "attention": false,
+      "date": "03-02-2022",
+      "tech": "Sam Smithest"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smither"
+    },
+    {
+      "id": 3,
+      "firstName": "Sam",
+      "lastName": "Smithest"
+    },
+
+    {
+      "firstName": "Marko",
+      "lastName": "Zecevic",
+      "id": 4
+    }
+  ]
+}
