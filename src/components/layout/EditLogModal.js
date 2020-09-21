@@ -12,7 +12,7 @@ const EditLogModal = ({ current, updateLog }) => {
   useEffect(() => {
     if (current) {
       setMessage(current.message);
-      setAttention(current.Attention);
+      setAttention(current.attention);
       setTech(current.tech);
     }
   }, [current]);
