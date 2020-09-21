@@ -6,6 +6,8 @@ import "./App.css";
 import Logs from "./components/logs/Logs";
 import AddBtn from "./components/layout/AddBtn";
 import AddLogModal from "./components/layout/AddLogModal";
+import EditLogModal from "./components/layout/EditLogModal";
+import AddTechModal from "./components/techs/AddTechModal";
 
 function App() {
   useEffect(() => {
@@ -18,6 +20,8 @@ function App() {
       <div className="container">
         <AddBtn />
         <AddLogModal />
+        <EditLogModal />
+        <AddTechModal />
         <Logs />
       </div>
     </Fragment>
