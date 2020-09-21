@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Test 1234",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-09-21T13:36:04.992Z"
+      "message": "Testing 123",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-09-21T13:47:40.690Z",
+      "id": 1
     }
   ],
   "techs": [
